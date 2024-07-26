@@ -1,0 +1,6 @@
+This project is deployed on ibm cloud please click on the below link to view the project with all its resources.
+
+https://codecrafterteam.s3.jp-tok.cloud-object-storage.appdomain.cloud/IBM%20PROJECT/index.html
+
+
+https://shortlurl.com/codecrafter
